@@ -1,16 +1,17 @@
 # coffee_animation
-
 A new Flutter project.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
-
 A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Screenshots
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![WhatsApp Image 2022-03-01 at 3 17 22 AM](https://user-images.githubusercontent.com/89317342/156067779-fcb3fc04-9d8f-49d1-b9e7-9b56973379c9.jpeg)
+![WhatsApp Image 2022-03-01 at 3 17 22 AM (1)](https://user-images.githubusercontent.com/89317342/156067789-ecbe959e-35e1-43cb-ada8-2e76b3703d5e.jpeg)
+![WhatsApp Image 2022-03-01 at 3 17 22 AM (2)](https://user-images.githubusercontent.com/89317342/156067799-06ac44bb-739f-427f-bba0-a32440dfeac3.jpeg)
+
+## Video
+
+https://user-images.githubusercontent.com/89317342/156067884-15daa032-ac63-47f0-b0f9-e01608426e76.mp4
